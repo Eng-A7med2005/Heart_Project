@@ -1,7 +1,7 @@
 import customtkinter as ctk
 import joblib
 
-# Load the trained model
+# Load the trained model (Put the path on your PC)
 mod = joblib.load("Heart_disease_model.pkl")
 
 
