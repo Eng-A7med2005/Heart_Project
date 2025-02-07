@@ -17,11 +17,14 @@ This is a **GUI application** built with `CustomTkinter` that allows users to in
 ```bash
    pip install -U scikit-learn==1.1.3
    ```
+
 1. Install dependencies:  
    ```bash
    pip install customtkinter joblib
-   ```  
-2. Place `Heart_disease_model.pkl` in the same directory.  
+   ```
+    
+2. Place `Heart_disease_model.pkl` in the same directory.
+    
 3. Run the script:  
    ```bash
    python Model_GUI3.py
