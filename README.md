@@ -41,6 +41,7 @@ This is a **GUI application** built with `CustomTkinter` that allows users to in
 - **Red Message** → "Unfortunately, you have an 85% chance of having heart disease. Please consult a doctor."  
 
 ## 📷 Screenshot  
-*(Attach a screenshot of the UI here)*  
+![Screenshot 2025-02-07 144538](https://github.com/user-attachments/assets/20de884b-4d45-4a97-9e50-02271bcd8ef7)  
 
 ---
+
