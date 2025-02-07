@@ -20,7 +20,7 @@ This is a **GUI application** built with `CustomTkinter` that allows users to in
 2. Place `Heart_disease_model.pkl` in the same directory.  
 3. Run the script:  
    ```bash
-   python Model_GUI.py
+   python Model_GUI3.py
    ```  
 
 ## 📌 Input Parameters  
