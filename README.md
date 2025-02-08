@@ -13,7 +13,7 @@ This is a **GUI application** built with `CustomTkinter` that allows users to in
 ✅ **Color-Coded Results** – Green for "No Heart Disease" and Red for "High Risk".  
 
 ## 🚀 How to Run  
-### Note : You shold install an older version of scikit-learn by :
+### Note : You should install an older version of scikit-learn by :
 ```bash
    pip install -U scikit-learn==1.1.3
    ```
