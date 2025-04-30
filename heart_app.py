@@ -22,8 +22,7 @@ st_slope_mapping = {"Flat": 0, "Up": 1, "Down": 2}
 
 st.set_page_config(page_title="Heart Disease Prediction", layout="centered")
 
-st.title("💓 Heart Disease Prediction 
-            By AIvolution Team")
+st.title("💓 Heart Disease Prediction By AIvolution Team")
 
 with st.form("prediction_form"):
     col1, col2 = st.columns(2)
