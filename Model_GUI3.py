@@ -2,7 +2,7 @@ import customtkinter as ctk
 import joblib
 
 # Load the trained model (Put the path on your PC or Put the Heart_disease_model.pkl with this file in the SAME Folder)
-mod = joblib.load("Heart_disease_model.pkl")
+mod = joblib.load("Heart_disease_model_FF.pkl")
 
 
 def submit():
