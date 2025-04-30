@@ -51,7 +51,7 @@ This is a **GUI application** built with `CustomTkinter` that allows users to in
 ![Screenshot 2025-02-07 144538](https://github.com/user-attachments/assets/20de884b-4d45-4a97-9e50-02271bcd8ef7)  
 
 
-🔄 Update: Streamlit Web Interface Added
+## 🔄 Update: Streamlit Web Interface Added
 We’ve added a fully functional and user-friendly Streamlit web interface for the Heart Disease Prediction project!
 Now, you can try out the model directly through your browser without needing to run any code locally.
 
