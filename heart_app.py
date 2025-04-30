@@ -2,7 +2,7 @@ import streamlit as st
 import joblib
 
 # Load the trained model
-loaded_model = joblib.dump(model, 'Heart_disease_model_FF.pkl')
+loaded_model = joblib.load('Heart_disease_model_FF.pkl')
 
 # Mapping dictionaries
 sex_mapping = {"Male": 1, "Female": 0}
