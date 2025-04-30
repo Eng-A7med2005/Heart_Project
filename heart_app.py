@@ -1,9 +1,8 @@
 import streamlit as st
-import dill
+import joblib
 
 # Load the trained model
-with open("Heart_disease_model_F.dill", "rb") as f:
-    loaded_model = dill.load(f)
+loaded_model = joblib.dump(model, 'heart_disease_model.pkl')
 
 # Mapping dictionaries
 sex_mapping = {"Male": 1, "Female": 0}
