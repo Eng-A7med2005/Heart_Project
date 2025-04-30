@@ -2,7 +2,7 @@ import streamlit as st
 import dill
 
 # Load the trained model
-with open("Heart_disease_model.dill", "rb") as f:
+with open("Heart_disease_model_F.dill", "rb") as f:
     loaded_model = dill.load(f)
 
 # Mapping dictionaries
